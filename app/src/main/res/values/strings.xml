@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">TheBox</string>
     <string name="save">Save</string>
-    <string name="enter_index_details">Enter Index Details</string>
+    <string name="enter_index_details">Enter TheBox Details</string>
     <string name="index_link">TheBox Link</string>
     <string name="username">Username</string>
     <string name="password">Password</string>
@@ -18,7 +18,7 @@
         <item>TimeModified</item>
         <item>ReleaseDate</item>
         <item>Size</item>
-        <item>IndexLink</item>
+        <item>TheBoxLink</item>
     </string-array>
 
     <string-array name="index_types">
